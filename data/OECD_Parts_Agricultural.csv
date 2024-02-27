@@ -1,0 +1,43 @@
+"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+"Europe","eu","Germany","eudeu","deu",132000,2000
+"Europe","eu","Germany","eudeu","deu",59000,2001
+"Europe","eu","Denmark","eudnk","dnk",1307,2001
+"Asia","as","China","aschn","chn",636,2002
+"Europe","eu","Germany","eudeu","deu",4000,2002
+"Asia","as","China","aschn","chn",5000,2003
+"Asia","as","Thailand","astha","tha",403.99999999999994,2003
+"Asia","as","China","aschn","chn",150,2004
+"Europe","eu","Germany","eudeu","deu",2000,2004
+"Asia","as","China","aschn","chn",120297.99999999999,2005
+"Europe","eu","Germany","eudeu","deu",70000,2005
+"Europe","eu","Netherlands","eunld","nld",4975,2005
+"North America","na","Canada","nacan","can",65,2005
+"Asia","as","China","aschn","chn",3196,2006
+"Europe","eu","Netherlands","eunld","nld",7537.999999999999,2006
+"Europe","eu","Russia","eurus","rus",5275,2006
+"Asia","as","China","aschn","chn",6343.999999999999,2007
+"Europe","eu","Germany","eudeu","deu",2000,2007
+"North America","na","Canada","nacan","can",241545,2007
+"Asia","as","China","aschn","chn",2445,2008
+"Europe","eu","Germany","eudeu","deu",38176,2008
+"Asia","as","China","aschn","chn",38215,2009
+"Asia","as","Singapore","assgp","sgp",435,2009
+"Europe","eu","Russia","eurus","rus",34000,2009
+"Europe","eu","Slovenia","eusvn","svn",285,2009
+"Europe","eu","Sweden","euswe","swe",18533,2009
+"Asia","as","China","aschn","chn",81229,2010
+"Asia","as","India","asind","ind",1433,2010
+"Asia","as","Turkey","astur","tur",2129,2010
+"Asia","as","China","aschn","chn",86768.99999999999,2011
+"Europe","eu","Italy","euita","ita",5633.999999999999,2011
+"Europe","eu","Russia","eurus","rus",83762,2011
+"Asia","as","China","aschn","chn",165958,2012
+"Asia","as","China","aschn","chn",161678,2013
+"Asia","as","China","aschn","chn",529526,2014
+"Asia","as","China","aschn","chn",579629,2015
+"Asia","as","China","aschn","chn",755066,2016
+"Asia","as","India","asind","ind",4313,2016
+"Europe","eu","France","eufra","fra",243,2016
+"Asia","as","China","aschn","chn",515690.00000000006,2017
+"Asia","as","China","aschn","chn",996,2018
+"Asia","as","China","aschn","chn",58472,2020
